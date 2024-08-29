@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203411705611",
+    "project_id": "hourworx",
+    "storage_bucket": "hourworx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203411705611:android:42d656770847df2dc7dc0e",
+        "android_client_info": {
+          "package_name": "com.onest.hrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203411705611-5flr21hi3uicnvg2h9r72co1fhunv3qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6N0rlO4oyMTHuFNIoCHsZ_55tf-tKVoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203411705611-5flr21hi3uicnvg2h9r72co1fhunv3qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
